@@ -1,2 +1,0 @@
-# Infrared_photoelectric_transmission
-电工小学期：电度表红外光电传送
