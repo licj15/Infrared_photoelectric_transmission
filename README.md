@@ -2,6 +2,10 @@
 
 参与者：刘心志 蔡志军 李朝鉴
 
+## 一张图看懂如何使用
+
+![UM00](https://raw.githubusercontent.com/TRON15/MarkdownPhotos/master/UM00.png)
+
 ## 题目描述
 
 ### 1.基本要求
